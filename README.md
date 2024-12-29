@@ -8,10 +8,9 @@ This repository contains implementations of various Convolutional Neural Network
 1. [Introduction](#introduction)  
 2. [Dataset](#dataset)  
 3. [Architectures Implemented](#architectures-implemented)  
-4. [Requirements](#requirements)  
-5. [Usage](#usage)  
-6. [Results](#results)  
-7. [Acknowledgments](#acknowledgments)
+4. [Requirements](#requirements)   
+5. [Results](#results)  
+6. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -66,7 +65,7 @@ Ensure you have the following installed:
 
 ### Run the Notebook
 1. Launch Jupyter Notebook or any compatible IDE.
-2. Open `image_classification.ipynb`.
+2. Open `cnn-cifar10-transferlearning.ipynb`.
 3. Execute cells to train and evaluate the models.
 
 ### Example Results Visualization
