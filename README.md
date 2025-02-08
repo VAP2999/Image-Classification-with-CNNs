@@ -1,4 +1,4 @@
-# Image Classification with CNNs on CIFAR-10
+# Image Classification with CNNs 
 
 This repository contains implementations of various Convolutional Neural Network (CNN) architectures for image classification on the CIFAR-10 dataset. The project demonstrates the use of custom CNNs, pre-trained models (VGG16 and ResNet50), and transfer learning techniques to achieve high accuracy in classifying images into 10 categories.
 
